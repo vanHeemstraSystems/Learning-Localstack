@@ -60,6 +60,9 @@ https://dev.to/goodidea/how-to-fake-aws-locally-with-localstack-27me
 
 https://dev.to/goodidea/how-to-fake-aws-locally-with-localstack-27me
 
+
+https://s0dev0to.icopy.site/goodidea/how-to-fake-aws-locally-with-localstack-27me
+
 <!-- 3. Copy the contents of `.env.example` into a new `.env` file. 
 
 4. Initialize Localstack: `npm run localstack:init`.
