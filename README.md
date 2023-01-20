@@ -57,13 +57,11 @@ https://medium.com/@matayoshi.mariano/aws-services-in-your-local-environment-wit
 
 https://dev.to/goodidea/how-to-fake-aws-locally-with-localstack-27me
 
-
-https://dev.to/goodidea/how-to-fake-aws-locally-with-localstack-27me
-
-
 https://s0dev0to.icopy.site/goodidea/how-to-fake-aws-locally-with-localstack-27me
 
-<!-- 3. Copy the contents of `.env.example` into a new `.env` file. 
+=== Do we need to also do the below?
+
+3. Copy the contents of `.env.example` into a new `.env` file. 
 
 4. Initialize Localstack: `npm run localstack:init`.
   - This will create a new container, then stream the logs as it is setting up. It will start with `Waiting for all LocalStack services to be ready`. After a few moments, you'll see a final `Ready`. When you do, press Ctrl+C to exit the logs.
@@ -72,4 +70,4 @@ https://s0dev0to.icopy.site/goodidea/how-to-fake-aws-locally-with-localstack-27m
 
 Upload the test file:
 
-`npm run test-upload` -->
+`npm run test-upload`
