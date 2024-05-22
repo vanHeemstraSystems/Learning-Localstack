@@ -1,4 +1,6 @@
-# Learning-Localstack
+learning-localstack
+
+# Learning Localstack
 
 A basic demo setting up Localstack's S3.
 
